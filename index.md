@@ -46,7 +46,11 @@ page_sections:
   media_alignment: Left
   headline: <span class="light">Club de</span> <strong>Kayak</strong>
   content: La Loue (rivière de classe II-III) est idéale pour l’initiation au canoë
-    – kayak. Elle permet une pratique « loisir » et découverte de la rivière.
+    – kayak. Elle permet une pratique « loisir » et découverte de la rivière.<br><br>Parcours
+    :<br>* Kayak polo devant le club, à la rentrée pour une reprise en douceur et
+    apprendre les bases aux débutants.<br>* Descente Vuillafans - Ornans<br>* Descente
+    Montegoyes - Ornans<br>* Les gorges de Nouailles, seulement si le débit le permet<br><br>Horaires
+    :<br>Samedi, 13h - 17h30, pendant toute l'année scolaire.
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
