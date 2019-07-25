@@ -14,7 +14,7 @@ page_sections:
   - link: "#"
     link_text: Escalade
   - link: "#"
-    link_text: Sorties Nature
+    link_text: Activités Outdoor
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
