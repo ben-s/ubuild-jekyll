@@ -30,8 +30,8 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll/team
     button_text: Activités du club
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    image: "/uploads/2019/07/25/la-vouivre-vallee.jpg"
+    alt_text: Vallée d'Ornans
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: 2-column-text
   block: two-column-1
