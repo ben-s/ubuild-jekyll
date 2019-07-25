@@ -33,6 +33,14 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: La Vouivre est implantée à Ornans depuis 1981
+  content: 'Notre objectif : <br><em>Pratiquer et faire la promotion des activités
+    physiques et de pleine nature</em>. <br>La situation géographique d’Ornans, dans
+    la vallée de la Loue, a tout naturellement poussé les membres de notre association
+    vers le <strong>kayak</strong> et l’<strong>escalade</strong>, mais pas seulement
+    !'
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -53,12 +61,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
