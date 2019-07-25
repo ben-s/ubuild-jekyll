@@ -44,7 +44,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <span class="light">Club de</span> <strong>Kayak</strong>
+  headline: '<span class="light">Club de</span> <strong>Kayak : </strong>écoles de
+    pagaies et kayak polo'
   content: La Loue (rivière de classe II-III) est idéale pour l’initiation au canoë
     – kayak. Elle permet une pratique « loisir » et découverte de la rivière.<br><br>Parcours
     :<br>* Kayak polo devant le club, à la rentrée pour une reprise en douceur et
