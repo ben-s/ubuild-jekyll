@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2019/07/25/mousqueton.png"
   navigation:
   - link: "/"
-    link_text: Home
+    link_text: Accueil
   - link: "#"
     link_text: Kayak
   - link: "#"
