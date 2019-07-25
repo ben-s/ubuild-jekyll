@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/07/25/mousqueton.png"
   navigation:
+  - link: "#"
+    link_text: Adhérer au club
   - link: "/"
     link_text: Home
   - link: "#"
