@@ -44,6 +44,21 @@ page_sections:
     challenge, on progresse à notre rythme en fonction des objectifs et des niveaux
     de chacun <br><br>Surtout, nous avons à coeur d''organiser des événements tout
     au long de l''année pour partager ensemble de bons moments.'
+- template: 2-column-text
+  block: two-column-1
+  col_2:
+    headline: L'esprit du club
+    content: 'La situation géographique d’Ornans, dans la vallée de la Loue, a tout
+      naturellement poussé les membres de notre association vers le <strong>kayak</strong>
+      et l’<strong>escalade</strong>, mais pas seulement !<br><br>Notre objectif :
+      <em>Pratiquer et faire la promotion des activités physiques et de pleine nature</em>.<br><br>À
+      la Vouivre, on prend avant tout plaisir à faire du sport. On s''entraide et
+      se challenge, on progresse à notre rythme en fonction des objectifs et des niveaux
+      de chacun <br><br>Surtout, nous avons à coeur d''organiser des événements tout
+      au long de l''année pour partager ensemble de bons moments.'
+  col_1:
+    headline: ''
+    content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
