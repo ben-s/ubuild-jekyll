@@ -20,9 +20,9 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: La Vouivre,<br>Club de <strong>Kayak, </strong>d'<strong>Escalade </strong>et<strong>
-    Activités Outdoor</strong>
-  content: basé à Ornans (25)
+  headline: La Vouivre
+  content: Club de <strong>Kayak, </strong>d'<strong>Escalade </strong>et<strong>
+    Activités Outdoor </strong>basé à Ornans (25)
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll/team
