@@ -61,7 +61,7 @@ page_sections:
     Montegoyes - Ornans<br>* Les gorges de Nouailles, seulement si le débit le permet<br><br>Horaires
     :<br>Samedi, 13h - 17h30, pendant toute l'année scolaire.
   media:
-    image: "/uploads/2019/07/25/kayak-home.JPG"
+    image: "/uploads/2019/07/25/kayak-home-1.JPG"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
@@ -75,7 +75,7 @@ page_sections:
     – 19h30 pour les enfants et ados<br>* Jeudi : 20h00 – 22h00 pour les adultes et
     grimpeurs confirmés<br><br><br>'
   media:
-    image: "/uploads/2019/07/25/home-escalade.jpg"
+    image: "/uploads/2019/07/25/escalade-home.jpg"
     alt_text: Matériel escalade
 - template: content-feature
   block: feature-1
