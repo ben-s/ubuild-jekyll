@@ -7,8 +7,6 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/07/25/mousqueton.png"
   navigation:
-  - link: "#"
-    link_text: Contact
   - link: "/"
     link_text: Home
   - link: "#"
@@ -21,7 +19,7 @@ page_sections:
     link_text: Adhérer au club
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    button_text: Contact
 - template: hero-banner-w-image
   block: hero-2
   headline: La Vouivre
