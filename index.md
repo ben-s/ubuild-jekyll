@@ -33,17 +33,6 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: 1-column-text
-  block: one-column-1
-  headline: L'esprit du club
-  content: 'La situation géographique d’Ornans, dans la vallée de la Loue, a tout
-    naturellement poussé les membres de notre association vers le <strong>kayak</strong>
-    et l’<strong>escalade</strong>, mais pas seulement !<br><br>Notre objectif : <em>Pratiquer
-    et faire la promotion des activités physiques et de pleine nature</em>.<br><br>À
-    la Vouivre, on prend avant tout plaisir à faire du sport. On s''entraide et se
-    challenge, on progresse à notre rythme en fonction des objectifs et des niveaux
-    de chacun <br><br>Surtout, nous avons à coeur d''organiser des événements tout
-    au long de l''année pour partager ensemble de bons moments.'
 - template: 2-column-text
   block: two-column-1
   col_2:
@@ -88,21 +77,24 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Organisation d'<strong>activités outdoor</strong>, ouvertes à tous.
+  content: Tout au long de l'année, nous organisons un lot de sorties ouvertes à tous
+    les membres de l'association, en famille. <br>Parmi les plus fréquentes, on peut
+    citer les séjours ski, sorties raquettes, via-ferrata, spéléo, canyoning...<br>À
+    Noël, nous participons activement au marché de Noël d'Ornans grâce à la très attendue
+    descente aux flambeau et l'arrivée du père noël sur l'eau.<br>Enfin, chaque année
+    nous mettons en place une plus importante, comme la participation à la Vogalonga,
+    à Venise, un grand week-end dans l'allier...
+  media:
+    image: ''
+    alt_text: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
-- template: detail-content
-  block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based theme that doubles as a builder
-    tool inside the Forestry content manager. It's easy to get started!</p><ol><li><p>Fork
-    the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a> and import
-    the site into <a href="https://forestry.io/">Forestry</a> (or use <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks#even-quicker-start">our
-    magic button</a>).</p></li><li><p>Click on 'Add New' in Forestry and select the
-    Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
-    preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
