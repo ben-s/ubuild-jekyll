@@ -12,9 +12,9 @@ page_sections:
   - link: "#"
     link_text: Kayak
   - link: "#"
-    link_text: Pricing
+    link_text: Escalade
   - link: "#"
-    link_text: Team
+    link_text: Sorties Nature
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
