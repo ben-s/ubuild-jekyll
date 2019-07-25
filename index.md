@@ -53,10 +53,14 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: "<strong>Club d'Escalade</strong> en intérieur et falaise, pour tous les
+    niveaux."
+  content: 'Les nombreuses falaises entourant Ornans permettent une pratique variée
+    de l’escalade : <em>couennes</em> de quelques mètres, voies de 35m, grandes voies...<br><br>Lieux
+    :<br>* Falaise école de Tarcenay, dès le printemps <br>* Gymnase A. Barbier, de
+    la rentrée jusqu''au printemps<br><br>Horaires des cours : <br>* Lundi : 17h30
+    – 19h30 pour les enfants et ados<br>* Jeudi : 20h00 – 22h00 pour les adultes et
+    grimpeurs confirmés<br><br><br>'
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
