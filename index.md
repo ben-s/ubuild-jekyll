@@ -89,8 +89,8 @@ page_sections:
     nous mettons en place une plus importante, comme la participation à la Vogalonga,
     à Venise, un grand week-end dans l'allier...
   media:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2019/07/25/via.jpg"
+    alt_text: Via ferrata d'ornans
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
