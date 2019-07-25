@@ -75,8 +75,8 @@ page_sections:
     – 19h30 pour les enfants et ados<br>* Jeudi : 20h00 – 22h00 pour les adultes et
     grimpeurs confirmés<br><br><br>'
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
+    image: "/uploads/2019/07/25/home-escalade.jpg"
+    alt_text: Matériel escalade
 - template: content-feature
   block: feature-1
   media_alignment: Right
