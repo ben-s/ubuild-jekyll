@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2019/07/25/mousqueton.png"
   navigation:
   - link: "#"
-    link_text: Adhérer au club
+    link_text: Contact
   - link: "/"
     link_text: Home
   - link: "#"
@@ -17,6 +17,8 @@ page_sections:
     link_text: Escalade
   - link: "#"
     link_text: Activités Outdoor
+  - link: "#"
+    link_text: Adhérer au club
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
