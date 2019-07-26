@@ -38,11 +38,14 @@ page_sections:
   col_2:
     headline: L'esprit du club
     content: 'Notre objectif : <em>Pratiquer et faire la promotion des activités physiques
-      et de pleine nature</em>.<br><br>À la Vouivre, on prend avant tout plaisir à
-      faire du sport. On s''entraide et se challenge, on progresse à notre rythme
-      en fonction des objectifs et des niveaux de chacun <br><br>Surtout, nous avons
-      à cœur d''organiser des événements tout au long de l''année pour partager ensemble
-      de bons moments.'
+      et de pleine nature</em>.<br><br>À la Vouivre, on s''attache à associer le sport
+      avec le plaisir et la bonne humeur. On s''entraide et se challenge, on progresse
+      chacun à notre rythme et en fonction de nos objectifs.  <br><br>En tant que
+      débutant, en vous inscrivant à la Vouivre vous trouverez l''occasion de vous
+      faire accompagner en toute sécurité dans la découverte de sports pourtant qualifiés
+      d''extrêmes.<br>Les plus aguerris, auront l''assurance de continuer à pratiquer
+      régulièrement et ainsi de progresser au côté de partenaires assidus, de tous
+      niveaux.'
   col_1:
     headline: La Vouivre, association sportive depuis 1981
     content: La Vouivre est née d'une poignée de copains, avides d'essayer toutes
