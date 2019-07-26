@@ -48,7 +48,7 @@ page_sections:
     content: La situation géographique d’Ornans, dans la vallée de la Loue, a tout
       naturellement poussé les membres fondateurs de notre association vers le <strong>kayak</strong>
       et l’<strong>escalade</strong>, mais pas seulement !<br><br>Nous comptons aujourd'hui
-      ~80 adhérents actifs.<br><br>
+      ~80 adhérents actifs.<br><img src="/uploads/2019/07/25/mousqueton.png"><br><br>
 - template: content-feature
   block: feature-1
   media_alignment: Left
