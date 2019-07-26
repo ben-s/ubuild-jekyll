@@ -45,10 +45,17 @@ page_sections:
       de bons moments.'
   col_1:
     headline: La Vouivre, association sportive depuis 1981
-    content: La situation géographique d’Ornans, dans la vallée de la Loue, a tout
-      naturellement poussé les membres fondateurs de notre association vers le <strong>kayak</strong>
-      et l’<strong>escalade</strong>, mais pas seulement !<br><br>Nous comptons aujourd'hui
-      ~80 adhérents actifs.<br>Si l'aventure vous tente ?<br><br><img src="/uploads/2019/07/25/mousqueton.png"><br><br>
+    content: La Vouivre est née d'une poignée de copains, avides d'essayer toutes
+      les <strong>activités sportives outdoor</strong> que la situation géographique
+      d’<strong>Ornans</strong> nous offre naturellement dans cette magnifique vallée
+      de la Loue !<br><br>Chaque année, le cercle d'amis s'est agrandit et a attiré
+      de nouveaux curieux ou passionnés, ce qui a poussé le collectif à se structurer
+      et créer 2 clubs. Le <strong>club de kayak</strong> pour les uns, le <strong>club
+      d'escalade </strong>pour les autres.<br><br>Aujourd'hui, les enfants, ados et
+      adultes inscrits à La Vouivre representent un groupe de 80 adhérents.<br> Si
+      vous vous sentez attirés par la découverte de ces sports ou si vous cherchez
+      un club sympa pour pratiquer le kayak ou l'escalade, n'hésitez pas à <a href="/contact"
+      title="">nous trouver</a>.<br><br><img src="/uploads/2019/07/25/mousqueton.png"><br><br>
 - template: content-feature
   block: feature-1
   media_alignment: Left
