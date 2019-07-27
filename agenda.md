@@ -12,3 +12,6 @@ page_sections:
 published: false
 
 ---
+# Agenda
+
+<iframe width="400" height="215" src="[https://framagenda.org/index.php/apps/calendar/embed/EN6L65nZCKxKdWmX](https://framagenda.org/index.php/apps/calendar/embed/EN6L65nZCKxKdWmX "Agenda La Vouivre")"></iframe>
