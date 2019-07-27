@@ -31,7 +31,7 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
-  - default
+  - text-1
 pages:
 - "./homepage.md"
 - index.md
