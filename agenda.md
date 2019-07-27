@@ -6,7 +6,9 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: ''
-  navigation: []
+  navigation:
+  - link: ''
+    link_text: ''
   cta:
     url: ''
     button_text: ''
